@@ -20,7 +20,7 @@ Soy un desarrollador apasionado por la tecnología y el desarrollo web/backend. 
 ## 📫 Contacto
 
 📧 Correo: [simonrodriguezospina5870@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/tuperfil](#)  
+💼 LinkedIn: [https://www.linkedin.com/in/simon-david-rodriguez-ospina-68593923a/](#)  
 🌐 Portafolio: [tuportafolio.com](#)  
 
 ¡Gracias por visitar mi perfil! 🚀  
