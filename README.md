@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Simon David Rodriguez Ospina]
 
-<!--
-**SimonEzosp/SimonEzosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Junior | JavaScript | Java | Node.js | React.js
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la tecnología y el desarrollo web/backend. Me especializo en JavaScript y Java, creando aplicaciones modernas y escalables con tecnologías como Node.js, MongoDB, MySQL y React.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y Herramientas:
+
+- **Lenguajes:** JavaScript, Java  
+- **Frontend:** React.js  
+- **Backend:** Node.js  
+- **Bases de Datos:** MongoDB, MySQL  
+- **Control de Versiones:** Git, GitHub  
+- **Otras herramientas:** Postman, Express.js,
+
+---
+
+## 📫 Contacto
+
+📧 Correo: [simonrodriguezospina5870@gmail.com]  
+💼 LinkedIn: [linkedin.com/in/tuperfil](#)  
+🌐 Portafolio: [tuportafolio.com](#)  
+
+¡Gracias por visitar mi perfil! 🚀  
