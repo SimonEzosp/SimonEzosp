@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Simon David Rodriguez Ospina]
+# 👋 ¡Hola! Soy Simon Ospina
 
 ## 💻 Desarrollador Junior | JavaScript | Java | Node.js | React.js
 
@@ -19,8 +19,7 @@ Soy un desarrollador apasionado por la tecnología y el desarrollo web/backend. 
 
 ## 📫 Contacto
 
-📧 Correo: [simonrodriguezospina5870@gmail.com]  
-💼 LinkedIn: [https://www.linkedin.com/in/simon-david-rodriguez-ospina-68593923a/](#)  
-🌐 Portafolio: [tuportafolio.com](#)  
+📧 Correo: simonrodriguezospina5870@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/simon-david-rodriguez-ospina-68593923a/  
 
 ¡Gracias por visitar mi perfil! 🚀  
