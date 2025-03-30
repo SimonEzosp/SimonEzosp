@@ -2,7 +2,7 @@
 
 ## 💻 Desarrollador Junior | JavaScript | Java | Node.js | React.js
 
-Estudiante de 6 semestre de Ingenieria de Software, desarrollador apasionado por la tecnología y el desarrollo web/backend. Me especializo en JavaScript y Java, creando aplicaciones modernas y escalables con tecnologías como Node.js, MongoDB, MySQL y React.js.
+Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnología y el desarrollo web/backend. Me especializo en JavaScript y Java, creando aplicaciones modernas y escalables con tecnologías como Node.js, MongoDB, MySQL y React.js.
 
 ---
 
