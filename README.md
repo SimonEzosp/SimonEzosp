@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Simon Ospina
 
-## 💻 Desarrollador Junior | JavaScript | Java | Node.js | React.js
+## 💻 Desarrollador Junior | JavaScript | Node.js | React.js | SQL y NoSQL
 
-Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnología y el desarrollo web/backend. Me especializo en JavaScript y Java, creando aplicaciones modernas y escalables con tecnologías como Node.js, MongoDB, MySQL y React.js.
+Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnología y el desarrollo web/backend. Me especializo en JavaScript, creando aplicaciones modernas y escalables con tecnologías como Node.js, MongoDB, MySQL y React.js.
 
 ---
 
@@ -10,10 +10,10 @@ Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnologí
 
 - **Lenguajes:** JavaScript, Java  
 - **Frontend:** React.js  
-- **Backend:** Node.js  
+- **Backend:** Node.js con Express js
 - **Bases de Datos:** MongoDB, MySQL  
 - **Control de Versiones:** Git, GitHub  
-- **Otras herramientas:** Postman, Express.js,
+- **Otras herramientas:** Postman
 
 ---
 
