@@ -8,7 +8,7 @@ Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnologí
 
 ## 🚀 Tecnologías y Herramientas:
 
-- **Lenguajes:** JavaScript, Java  
+- **Lenguajes:** JavaScript  
 - **Frontend:** React.js  
 - **Backend:** Node.js con Express js
 - **Bases de Datos:** MongoDB, MySQL  
