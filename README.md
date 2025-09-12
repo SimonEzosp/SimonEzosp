@@ -20,6 +20,7 @@ Estudiante de Ingenieria de Software, desarrollador apasionado por la tecnologí
 ## 📫 Contacto
 
 📧 Correo: simonrodriguezospina5870@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/simon-david-rodriguez-ospina-68593923a/  
+💼 LinkedIn: https://www.linkedin.com/in/simon-david-rodriguez-ospina-68593923a/
+Portafolio Web: https://ezosp.vercel.app/
 
 ¡Gracias por visitar mi perfil! 🚀  
